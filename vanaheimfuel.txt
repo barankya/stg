@@ -1,9 +1,11 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "new_features": [
-    "Fixed an issue where members could not be invited to the station.",
-    "Fixed an issue where fuel prices set in Config.FuelTypes were not being applied in-game.",
-    "Added gallon support. It can now be switched between liters and gallons via Config.UnitSystem in shared/config.lua.",
-    "Added drop-in LegacyFuel compatibility. now work with no extra integration."
+    "Improved network performance. Vehicle fuel level is now synced more efficiently, preventing client timeouts and lag on high population servers.",
+    "Added Config.UnownedStationStaffActive option. Pump attendants and car wash workers can now operate at unowned gas stations until a player buys them.",
+    "Added Config.UnownedStationStaffGhost option. Controls whether unowned station staff appear as transparent idle peds when not active.",
+    "Fixed an error where buying a station could show a business belongs to someone else message.",
+    "Fixed NPC state not refreshing right after a station was bought, sold, or transferred.",
+    "Mechanic and delivery driver NPCs no longer spawn at stations no one owned."
   ]
 }
