@@ -1,6 +1,7 @@
 {
-  "version": "1.0.2",
+  "version": "1.1.0",
   "new_features": [
-    "Added stress and stamina bars."
+    "Added underwater oxygen bar.",
+    "Fixed food, water and stress bars on QBOX."
   ]
 }
