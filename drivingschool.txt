@@ -1,8 +1,6 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "new_features": [
-    "Help notifications will no longer appear while a target is available.",
-    "speedChange in the animations table has now been converted into a table format, allowing you to define any speed limit you want for any checkpoint.",
-    "Norwegian language support has been added alongside the other available languages."
+    "Fixed QBOX compatibility: theory and driving licenses are now granted and read correctly on QBOX servers."
   ]
 }
