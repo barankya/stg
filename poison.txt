@@ -1,7 +1,6 @@
 {
   "version": "1.0.2",
   "new_features": [
-    "Added Config.DeathOnTimeout, so you can now choose whether the player dies or recovers when the poison timer runs out without an antidote.",
-    "The antidote is now consumed instantly on use, instead of after the animation finishes."
+    "Added Config.DeathOnTimeout, so you can now choose whether the player dies or recovers when the poison timer runs out without an antidote."
   ]
 }
