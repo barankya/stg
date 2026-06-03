@@ -1,8 +1,8 @@
 {
-  "version": "1.0.3",
+  "version": "1.1.0",
   "new_features": [
-    "Fixed an issue where some servers displayed vehicle hash names instead of the actual vehicle names.",
-    "Added a new Change Vehicle button next to vehicles when all parking spots are occupied, allowing players to swap that vehicle with another listed vehicle that currently has no available parking spot. (Optional)",
-    "Added Norwegian language support in addition to the existing 14 languages."
+    "You can now create multiple dealership locations. Each location has its own NPC, parking spots, and its own separate vehicle inventory.",
+    "Listing vehicles when all parking spots are already full is now optional and can be toggled in the config (Config.AllowChangeVehicle).",
+    "Fixed several issues on QBox servers."
   ]
 }
