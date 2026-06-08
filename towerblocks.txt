@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "new_features": [
+    "Fixed QBOX compatibility: theory and driving licenses are now granted and read correctly on QBOX servers."
+  ]
+}
