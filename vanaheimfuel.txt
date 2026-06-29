@@ -1,11 +1,8 @@
 {
-  "version": "1.2.1",
+  "version": "1.2.2",
   "new_features": [
-    "Improved network performance. Vehicle fuel level is now synced more efficiently, preventing client timeouts and lag on high population servers.",
-    "Added Config.UnownedStationStaffActive option. Pump attendants and car wash workers can now operate at unowned gas stations until a player buys them.",
-    "Added Config.UnownedStationStaffGhost option. Controls whether unowned station staff appear as transparent idle peds when not active.",
-    "Fixed an error where buying a station could show a business belongs to someone else message.",
-    "Fixed NPC state not refreshing right after a station was bought, sold, or transferred.",
-    "Mechanic and delivery driver NPCs no longer spawn at stations no one owned."
+    "Fixed a client crash near gas stations after a fuel pump was destroyed. Pumps are now protected from being rammed and exploded by default (toggleable via Config.DisablePumpCollision).",
+    "Fixed car wash sponges sometimes remaining floating in the air after the workers despawned.",
+    "Fixed being unable to fire or change the rank of hired players. Only the actual station owner is now protected from removal."
   ]
 }
