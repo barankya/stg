@@ -1,1 +1,1 @@
-{"version": "1.1.1", "new_features": ["Added QBOX framework support.", "Added vRP framework support."]}
+{"version": "1.1.2", "new_features": ["Fixed QBOX (qbx) framework detection so it uses the correct core object, making money and item actions work reliably on QBOX servers."]}
