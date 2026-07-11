@@ -1,1 +1,1 @@
-{"version": "1.0.1", "new_features": ["getMessage error has been fixed."]}
+{"version": "1.0.2", "new_features": ["Fixed an exploit where players could receive the reward multiple times by spamming the interact key while finishing the job.", "Added a target at the finish point."]}
