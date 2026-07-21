@@ -1,6 +1,10 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "new_features": [
-    ""
+    "Ice creams now restore hunger and thirst",
+    "Multiple spawn points at the depot",
+    "Fixed items not being consumed on ox_inventory",
+    "Fixed vehicle keys with vehicles_keys",
+    "Fixed taking the truck out while already spawned"
   ]
 }
