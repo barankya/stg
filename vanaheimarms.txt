@@ -1,8 +1,10 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.3",
   "new_features": [
-    "Fixed a client crash near gas stations after a fuel pump was destroyed. Pumps are now protected from being rammed and exploded by default (toggleable via Config.DisablePumpCollision).",
-    "Fixed car wash sponges sometimes remaining floating in the air after the workers despawned.",
-    "Fixed being unable to fire or change the rank of hired players. Only the actual station owner is now protected from removal."
+    "The shooting range can now charge by time instead of per magazine (Config.Range.chargeMode).",
+    "Added a 'Press E to leave' hint to the shooting range HUD.",
+    "Notifications can now be routed to your own notify resource (Config.Functions.CustomNotify, stg-hud and ox_lib supported).",
+    "Weapon license handling moved to an editable file so it can be connected to your own license or police script.",
+    "Added a hook that runs when a player earns a license, useful for refreshing ID card or wallet resources."
   ]
 }
