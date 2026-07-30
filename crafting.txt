@@ -1,1 +1,1 @@
-{"version": "1.0.1", "new_features": ["getMessage error has been fixed."]}
+{"version": "1.1.0", "new_features": ["Benches can be locked to a job or gang.", "Gang locks work on QBCore and QBOX.", "Fixed /benches access for QBCore admins.", "Fixed the Edit button in the bench menu.", "Fixed custom benches vanishing on restart."]}
