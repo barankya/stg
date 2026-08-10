@@ -1,9 +1,8 @@
 {
-  "version": "1.2.3",
+  "version": "1.2.4",
   "new_features": [
-    "Fixed a false 'station already owned by someone else' message when buying a free station. Purchases now register reliably the first time, no restart needed.",
-    "Fixed fuel pumps not being targetable when pump collision was disabled. Pumps now get a proper interaction zone for ox_target / qb-target.",
-    "Improved attendant and car wash worker idle animations (no more holding a clipboard).",
-    "Car wash workers now only hold the sponge while actually cleaning a vehicle, correctly placed in hand."
+    "Fixed electric charging stations having no collision. Players and vehicles no longer walk or drive straight through them.",
+    "Charging station collision now follows the same config option as fuel pumps, so you can still make them pass-through if you prefer.",
+    "Fixed the refueling animation being ignored. The animation set in the config is now used at the pump, for the jerrycan and by pump attendants."
   ]
 }
