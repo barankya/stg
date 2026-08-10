@@ -1,1 +1,1 @@
-{"version": "1.0.1", "new_features": ["Logout kick message is now translatable."]}
+{"version": "1.0.2", "new_features": ["Ticket notifications for new messages.", "Closed tickets now notify the player.", "Custom notify system support.", "Fixed invisible player in the pause menu."]}
