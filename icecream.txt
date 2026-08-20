@@ -1,6 +1,9 @@
 {
-  "version": "1.0.2",
+  "version": "1.1.0",
   "new_features": [
-    "Fixed players turning invisible to everyone else while using the soft serve machine"
+    "Walk-up NPC customers at the window",
+    "Order tag above each customer",
+    "Optional item based truck stock",
+    "Auto stock transfer to inventory"
   ]
 }
