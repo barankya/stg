@@ -1,9 +1,8 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "new_features": [
-    "Walk-up NPC customers at the window",
-    "Order tag above each customer",
-    "Optional item based truck stock",
-    "Auto stock transfer to inventory"
+    "Fixed stock re-given on every menu open",
+    "Fixed restock not charging the balance",
+    "Fixed machines floating after parking"
   ]
 }
