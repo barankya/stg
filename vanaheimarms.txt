@@ -1,10 +1,11 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "new_features": [
-    "The shooting range can now charge by time instead of per magazine (Config.Range.chargeMode).",
-    "Added a 'Press E to leave' hint to the shooting range HUD.",
-    "Notifications can now be routed to your own notify resource (Config.Functions.CustomNotify, stg-hud and ox_lib supported).",
-    "Weapon license handling moved to an editable file so it can be connected to your own license or police script.",
-    "Added a hook that runs when a player earns a license, useful for refreshing ID card or wallet resources."
+    "Customers can now pick how many units they buy at once, so ammunition no longer sells one round at a time.",
+    "The purchase button and confirmation now read 'Purchase Item' for anything that is not a weapon.",
+    "License exam fees are now paid into the shop safe and appear in the finance history.",
+    "Every GTA weapon is now predefined in shared/weapons.lua, so adding one to the market only needs a price.",
+    "Added Machine Guns, Heavy Weapons and Throwables as ready to use categories.",
+    "Fixed the knife using an invalid prop model, it now shows up on the shelf."
   ]
 }
