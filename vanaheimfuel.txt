@@ -1,8 +1,16 @@
 {
-  "version": "1.2.4",
+  "version": "1.3.0",
   "new_features": [
-    "Fixed electric charging stations having no collision. Players and vehicles no longer walk or drive straight through them.",
-    "Charging station collision now follows the same config option as fuel pumps, so you can still make them pass-through if you prefer.",
-    "Fixed the refueling animation being ignored. The animation set in the config is now used at the pump, for the jerrycan and by pump attendants."
+    "Config change: the jerrycan section was rebuilt. 'price' and 'refillPrice' are gone, 'stockType' and 'containerFee' are new. Copy your settings over instead of overwriting the file.",
+    "Jerrycans are now priced from your own gasoline price and take real fuel out of your station stock, with a separate can fee on top. They can no longer be bought out of thin air.",
+    "Unlocking a pump and buying the car wash area are now paid from the business balance instead of the owner's personal money, and show up in red as expenses.",
+    "Fixed the business balance and the finance cards not updating right away after paying a driver, buying stock, depositing or withdrawing.",
+    "Delivery costs now appear in the transaction list the moment you place the order, instead of when the driver arrives.",
+    "Fixed helicopter and boat refueling being impossible on servers that use a target system. You can now refuel while standing next to the aircraft or boat.",
+    "Fixed the refuel prompt staying stuck on screen after leaving a helicopter, and showing the wrong label at regular gas stations.",
+    "Orders that are too big for the selected vehicle are now blocked with a clear message, instead of failing after you press start.",
+    "Gallon servers: prices and transaction records now read in gallons, and entering a price no longer changes the number you typed.",
+    "Fixed refunded deliveries being counted as spending on the monthly expenses card.",
+    "Removed a duplicate notification when starting a delivery."
   ]
 }
