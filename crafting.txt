@@ -1,1 +1,1 @@
-{"version": "1.1.0", "new_features": ["Benches can be locked to a job or gang.", "Gang locks work on QBCore and QBOX.", "Fixed /benches access for QBCore admins.", "Fixed the Edit button in the bench menu.", "Fixed custom benches vanishing on restart."]}
+{"version": "1.2.0", "new_features": ["Crafting queues now survive server restarts.", "Your queue is also kept when you disconnect or crash.", "Crafts keep progressing while you are offline and are waiting for you when you return.", "No SQL to run, the update sets up its own database changes."]}
