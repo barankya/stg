@@ -1,6 +1,10 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "new_features": [
-    "Fixed QBOX compatibility: theory and driving licenses are now granted and read correctly on QBOX servers."
+    "Optional refund when failing the exam",
+    "Exit and ESC now work during the exam",
+    "Cancelling an exam now refunds correctly",
+    "Notifications showed a placeholder title",
+    "Czech language support added"
   ]
 }
