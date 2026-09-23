@@ -1,4 +1,8 @@
 {
-  "version": "1.0.0",
-  "new_features": []
+  "version": "1.0.1",
+  "new_features": [
+    "Noclip and spectate are now written to the panel logs and the Discord webhook",
+    "Live screen monitoring, teleporting to a player and vehicle actions are logged as well",
+    "Spectate now checks the spectate permission instead of the teleport one"
+  ]
 }
