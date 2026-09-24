@@ -1,7 +1,10 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "new_features": [
-    "Added underwater oxygen bar.",
-    "Fixed food, water and stress bars on QBOX."
+    "Status bars can now be moved separately.",
+    "Each status bar color can be customized.",
+    "Black money can be read from an item or marked bills.",
+    "Settings panel now previews hidden HUD elements.",
+    "Added Korean language."
   ]
 }
