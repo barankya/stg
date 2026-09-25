@@ -1,6 +1,8 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "new_features": [
-    "Fixed: offline sellers did not receive their money when a listed vehicle was sold (ESX)."
+    "Fixed: add-on vehicles sometimes did not appear on their parking spots.",
+    "Fixed: test drive could freeze with add-on vehicles that had not loaded yet.",
+    "Added: Korean and Czech language support."
   ]
 }
