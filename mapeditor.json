@@ -1,4 +1,6 @@
 {
-  "version": "1.0.0",
-  "new_features": []
+  "version": "1.0.1",
+  "new_features": [
+    "Removed the 'Access denied' errors in the F8 console while using the gizmo"
+  ]
 }
