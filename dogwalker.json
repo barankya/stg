@@ -1,4 +1,8 @@
 {
-  "version": "1.0.0",
-  "new_features": []
+  "version": "1.0.1",
+  "new_features": [
+    "Fixed dogs stopping in place on servers with other players online",
+    "Removed the GTA ped group system, each dog now follows you on its own",
+    "Dogs match your pace and come back if they fall into water"
+  ]
 }
