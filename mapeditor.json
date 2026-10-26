@@ -1,6 +1,7 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "new_features": [
-    "Removed the 'Access denied' errors in the F8 console while using the gizmo"
+    "Fixed gizmo arrows and rings not responding to mouse dragging on some servers",
+    "Server console now warns you if your stg_lib is too old for admin permissions"
   ]
 }
