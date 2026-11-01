@@ -1,1 +1,1 @@
-{"version": "1.0.1", "new_features": ["Fixed an error that occurred when using the item."]}
+{"version": "1.0.2", "new_features": ["Added fixed chess tables that stay in place after restarts", "Added exports to add and remove tables from other scripts", "Added Czech and Korean languages"]}
