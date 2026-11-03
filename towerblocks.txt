@@ -1,1 +1,1 @@
-{"version": "1.0.2", "new_features": ["Brand new game interface", "New turn, score and game over screens"]}
+{"version": "1.0.2", "new_features": ["Brand new game interface", "New turn, score and game over screens", "Removed brand names to follow Tebex ToS"]}
