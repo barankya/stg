@@ -1,4 +1,7 @@
 {
-  "version": "1.0.0",
-  "new_features": []
+  "version": "1.0.1",
+  "new_features": [
+    "Fixed a duplicate ball set appearing on the table when a match started",
+    "Improved table cleanup on MLO pool tables"
+  ]
 }
