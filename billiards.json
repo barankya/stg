@@ -1,7 +1,11 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "new_features": [
-    "Fixed a duplicate ball set appearing on the table when a match started",
-    "Improved table cleanup on MLO pool tables"
+    "Fixed idle resmon spikes when no pool table is nearby",
+    "The top down camera now stays under low ceilings in MLOs and shells",
+    "Added a Take Your Shot hint to the controls bar when it is your turn",
+    "Added ACE admin permission and qbcore.admin / qbcore.god groups for /pooladmin",
+    "Added client exports for custom target and menu systems",
+    "The table manager waypoint button is now a teleport button"
   ]
 }
