@@ -1,1 +1,1 @@
-{"version": "1.0.2", "new_features": ["Ticket notifications for new messages.", "Closed tickets now notify the player.", "Custom notify system support.", "Fixed invisible player in the pause menu."]}
+{"version": "1.0.3", "new_features": ["Ticket screenshots now support screencapture as well as screenshot-basic.", "Screenshots work without a screenshot webhook.", "The pause menu no longer shows up in ticket screenshots.", "Your ticket opens right after you send it.", "Click a ticket screenshot to view it full screen.", "Added Korean and Czech languages."]}
