@@ -1,4 +1,8 @@
 {
-  "version": "1.0.0",
-  "new_features": []
+  "version": "1.0.1",
+  "new_features": [
+    "Admins can save their HUD layout as the server default from the HUD editor.",
+    "Players without their own layout now start with the server default layout.",
+    "Reset Positions now brings players back to the server default layout."
+  ]
 }
